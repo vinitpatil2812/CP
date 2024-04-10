@@ -1,0 +1,2 @@
+sum += p;
+            // people++;

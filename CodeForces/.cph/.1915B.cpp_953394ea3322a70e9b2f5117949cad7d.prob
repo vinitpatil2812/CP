@@ -1,0 +1,1 @@
+{"name":"Local: 1915B","url":"d:\\Competitive Programming\\CodeForces\\1915B.cpp","tests":[{"id":1703774817847,"input":"3\nABC\nC?B\nBCA\nBCA\nCA?\nABC\n?AB\nBCA\nABC","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Competitive Programming\\CodeForces\\1915B.cpp","group":"local","local":true}

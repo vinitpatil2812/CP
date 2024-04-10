@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "limits": "cpp",
+        "utility": "cpp",
+        "functional": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "sstream": "cpp",
+        "regex": "cpp"
+    }
+}
